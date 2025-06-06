@@ -7,4 +7,4 @@ Each example progressively introduces more instructions:
 - Simple control flow using jmp and conditional jumps
 - Basic memory access via [R1] notation
 
-Course assignment – Introduction to Computer Engineering (GTU, 2019)
+Assignment from the Introduction to Computer Engineering course (GTU, 2019)
